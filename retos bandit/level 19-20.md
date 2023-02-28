@@ -4,7 +4,7 @@
 To gain access to the next level, you should use the setuid binary in the homedirectory. Execute it without arguments to find out how to use it. The password for this level can be found in the usual place (/etc/bandit_pass), after you have used the setuid binary.
 
 ## Datos acceso
-ssh bandit# @bandit.labs.overthewire.org -p 2220
+ssh bandit19 @bandit.labs.overthewire.org -p 2220
 awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 
 ## Solucion
@@ -30,6 +30,12 @@ bandit19@bandit:~$
 ```
 
 ## Notas adicionales
-
+en linux existe la posibilidad de correr comandos como otro usuario
+Los permisos "-rwsr-x---" indican los permisos de acceso para un archivo en un sistema operativo Unix o Unix-like. Aquí está una explicación detallada de cada caracter:
+-   El primer carácter "-" indica que se trata de un archivo regular. Si fuera un directorio, aparecería "d" en su lugar.
+-   Los siguientes tres caracteres "rws" indican los permisos del usuario propietario. "r" indica que el propietario puede leer el archivo, "w" indica que el propietario puede escribir en el archivo, y "s" indica que el archivo se ejecuta con los permisos de su propietario y no del usuario que lo ejecuta.
+-   Los siguientes tres caracteres "r-x" indican los permisos del grupo al que pertenece el archivo. "r" indica que los miembros del grupo pueden leer el archivo, "-" indica que no pueden escribir en el archivo, y "x" indica que los miembros del grupo pueden ejecutar el archivo.
+-   Los últimos tres caracteres "---" indican los permisos para otros usuarios que no son el propietario ni miembros del grupo. "-" indica que no tienen permiso de lectura, "-" indica que no tienen permiso de escritura, y "-" indica que no tienen permiso de ejecución.
 ## Referencias
 
+https://www.baeldung.com/linux/run-as-another-user
