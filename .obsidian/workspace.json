@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dd8972bfc14d4f9",
+            "id": "f9efbe92713d9a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos bandit/level 16-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "873809252f4c3243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos bandit/level 21-22.md",
+                "file": "retos bandit/level 27-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos bandit/level 21-22.md",
+                "file": "retos bandit/level 27-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos bandit/level 21-22.md",
+                "file": "retos bandit/level 27-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos bandit/level 21-22.md"
+                "file": "retos bandit/level 27-28.md"
               }
             }
           }
@@ -159,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873809252f4c3243",
+  "active": "f9efbe92713d9a6f",
   "lastOpenFiles": [
+    "retos bandit/level 26-27.md",
+    "retos bandit/level 25-26.md",
+    "retos bandit/level 24--25.md",
+    "retos bandit/level 23-24.md",
+    "retos bandit/level 27-28.md",
+    "Untitled 1.md",
+    "retos bandit/level 22-23.md",
+    "retos bandit/level 21-22.md",
     "retos bandit/level 20-21.md",
     "retos bandit/Level 17-18.md",
     "retos bandit/level 18-19.md",
     "retos bandit/level 19-20.md",
-    "retos bandit/level 21-22.md",
     "retos bandit/level 16-17.md",
     "retos bandit/level 15-16.md",
     "retos bandit/level 14-15.md",
