@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22e6e65813c56264",
+        "id": "14ff9b695670df74",
         "type": "tabs",
         "children": [
           {
-            "id": "f9efbe92713d9a6f",
+            "id": "259d97604f8ed2d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos bandit/level 27-28.md",
+                "file": "primer parcial/2022/09-pw crack 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos bandit/level 27-28.md",
+                "file": "primer parcial/2022/09-pw crack 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos bandit/level 27-28.md",
+                "file": "primer parcial/2022/09-pw crack 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos bandit/level 27-28.md"
+                "file": "primer parcial/2022/09-pw crack 3.md"
               }
             }
           }
@@ -146,28 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9efbe92713d9a6f",
+  "active": "259d97604f8ed2d2",
   "lastOpenFiles": [
-    "retos bandit/level 26-27.md",
-    "retos bandit/level 25-26.md",
-    "retos bandit/level 24--25.md",
-    "retos bandit/level 23-24.md",
-    "retos bandit/level 27-28.md",
-    "Untitled 1.md",
-    "retos bandit/level 22-23.md",
-    "retos bandit/level 21-22.md",
-    "retos bandit/level 20-21.md",
-    "retos bandit/Level 17-18.md",
-    "retos bandit/level 18-19.md",
-    "retos bandit/level 19-20.md",
-    "retos bandit/level 16-17.md",
-    "retos bandit/level 15-16.md",
-    "retos bandit/level 14-15.md",
-    "retos bandit/level 13-14.md",
-    "retos bandit/level 12-13.md",
-    "retos bandit/level 11-12.md",
-    "retos bandit/level 10-11.md",
-    "retos bandit/level 9-10.md",
-    "retos bandit/level 8-9.md"
+    "primer parcial/2022/09-pw crack 3.md",
+    "primer parcial/2022/07-pw crack 1.md",
+    "primer parcial/2022/08-pw crack 2.md",
+    "primer parcial/2022/06-Glitch cat.md",
+    "primer parcial/2022/plantilla.md",
+    "primer parcial/2022/01-Runme.py.md",
+    "retos web/2019/04-dont-use-client-side.md",
+    "retos web/2019/06-Client-side-again.md",
+    "retos web/2019/05-picobrowser.md",
+    "retos web/2019/plantilla.md",
+    "retos web/2019/03-logon.md",
+    "retos web/2019/02-where are the robots.md",
+    "retos web/2019/01-insp3ctor.md",
+    "retos web/plantilla.md",
+    "primer parcial/2022/05-fixme2.py.md",
+    "retos web/2019",
+    "retos web",
+    "primer parcial/2022/04-fixme1.py.md",
+    "primer parcial/2022/03-codebook.md",
+    "primer parcial/2022/02-Convertme.py.md",
+    "primer parcial/2021/06-Magikarp Ground Mission.md",
+    "primer parcial/2022",
+    "primer parcial/2021/05-Tab, Tab, Attack.md",
+    "primer parcial/2019/05-Strings it.md",
+    "primer parcial/2021/01-obedient cat.md",
+    "primer parcial/2021/02-wave a flag.md",
+    "primer parcial/2021/03-nice net cat.md",
+    "primer parcial/2021/04-Static ain't always noise.md",
+    "primer parcial/2019/09-plumbing.md",
+    "primer parcial/2021",
+    "primer parcial/2019",
+    "primer parcial"
   ]
 }
